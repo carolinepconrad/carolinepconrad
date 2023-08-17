@@ -1,5 +1,6 @@
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="GIF" width="100"/>
+  <img src="https://media.giphy.com/media/kt6QK3u2P8WM1M704P/giphy.gif" alt="GIF" width="150"/>
 </div>
 
 <div id="socials" align="center">
@@ -8,14 +9,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   <a href=""> <!--insert link -->
-    <img src="https://img.shields.io/badge/my website-purple?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/my website-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
 
-<h1 align="center"> hey there
+<!-- <h1 align="center"> hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h1> -->
+
+
 
 ### 💁🏻‍♀️ About Me:
   - 📚 I am a junior at Cairn University studying Computer Science & Graphic Design.
