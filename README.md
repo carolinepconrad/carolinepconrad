@@ -4,7 +4,7 @@
 
 <div id="socials" align="center">
 <div id="badges">
-    <a href="https://linkedin.com/in/carolinepearlconrad">
+    <a href="https://www.linkedin.com/in/carolinepearlconrad">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
