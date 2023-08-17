@@ -2,6 +2,13 @@
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="GIF" width="100"/>
 </div>
 
+<div id="socials" align="center">
+<div id="badges">
+    <a href="www.linkedin.com/in/carolinepearlconrad">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+</div>
 
 
 <!--
