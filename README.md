@@ -13,6 +13,16 @@
 </div>
 </div>
 
+<h1 align="center"> hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### 💁🏻‍♀️ About Me:
+  - 📚 I am a junior at Cairn University studying Computer Science & Graphic Design.
+  - 💻 I'm interested in Web Development and UX/UI Design.
+  - 🌟 Currently look for internship opportunities and experiences.
+  - 📫 How to reach me: conradzcaroline@gmail.com
+
 
 <!--
 **carolinepconrad/carolinepconrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
