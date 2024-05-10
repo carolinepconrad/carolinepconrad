@@ -8,7 +8,9 @@
     <a href="https://www.linkedin.com/in/carolinepearlconrad">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+  <a href="https://carolinepconrad.github.io/cpconrad/">
   <img src="https://img.shields.io/badge/my website-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 </div>
 <hr>
