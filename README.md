@@ -22,7 +22,7 @@
 
 
 ### 💁🏻‍♀️ About Me:
-  - 📚 I am a junior at Cairn University studying Computer Science & Graphic Design.
+  - 📚 I am a senior at Cairn University studying Computer Science & Graphic Design.
   - 💻 I'm interested in Web Development and UX/UI Design.
   - 🌟 Currently looking for internship opportunities and experiences.
   - 📫 How to reach me: conradzcaroline@gmail.com
